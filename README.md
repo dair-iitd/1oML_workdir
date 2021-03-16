@@ -44,5 +44,5 @@ Install [dgl](https://github.com/dmlc/dgl) for RRN.
 ## Replication
 
 * Download datasets from this [drive link](https://drive.google.com/drive/folders/1s9QZXJGeAzCRuVcS7bSo7vQooCDRcTZe?usp=sharing). 
-* Run experiments from `[nqueens|futo|sudoku]_e2e_[baselines|ccloss|minloss|Iexplr|selectR].sh`
+* Run experiments from `scripts/shell_commands/[nqueens|futo|sudoku]_e2e_[baselines|ccloss|minloss|Iexplr|selectR].sh`
 
